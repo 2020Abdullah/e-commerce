@@ -57,7 +57,7 @@
                                     <div class="nov-slider-ct">
                                         <div class="nov-center slider-none">
                                             <div class="nov-title effect-0" >
-                                                Slide Home 3 01
+                                                Slide dddddHome 3 01
                                             </div>
                                             <div class="nov-description effect-0" >
                                                 <p>Slide Home 3 01</p>
